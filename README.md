@@ -1,9 +1,6 @@
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@rodolfoxiloj73797/30-nites-of-code)  
-  ![@rodolfoxiloj73797 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rodolfoxiloj73797)
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/S9oecmLUi26zYzrTZt/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I am Rodolfo</h1>
+    <h1 align="center">Hi 👋, I am Rodolfo</h1> ![@rodolfoxiloj73797 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rodolfoxiloj73797)
     <h3 align="center">A software developer from Guatemala. For the past 4 years, I have been working in the field of databases using PLSQ, Oracle Forms, Reports, 
     and I have also built web applications using PHP, JS, AJAX, and MySQL, additionally I have experience building mobile applications for Android and iOS using Dart and Flutter.
     I would like to specialize as a full-stack software developer, to help make your ideas a reality and simplify your day-to-day tasks, having integrity, respect, and commitment for software construction and deployment.
