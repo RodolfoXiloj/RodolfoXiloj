@@ -1,3 +1,6 @@
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@rodolfoxiloj73797/30-nites-of-code)  
+  ![@rodolfoxiloj73797 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rodolfoxiloj73797)
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/S9oecmLUi26zYzrTZt/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I am Rodolfo</h1>
