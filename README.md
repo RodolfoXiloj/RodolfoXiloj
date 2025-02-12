@@ -1,3 +1,7 @@
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@rodolfoxiloj73797/30-nites-of-code)  
+  ![@rodolfoxiloj73797 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rodolfoxiloj73797)
+  
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/S9oecmLUi26zYzrTZt/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I am Rodolfo</h1> 
@@ -6,10 +10,6 @@
     I would like to specialize as a full-stack software developer, to help make your ideas a reality and simplify your day-to-day tasks, having integrity, respect, and commitment for software construction and deployment.
     </h3>
 </div>
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@rodolfoxiloj73797/30-nites-of-code)  
-  ![@rodolfoxiloj73797 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rodolfoxiloj73797)
-
 
 <div id="badges" align="center">
     <!---<a href="https://twitter.com/DarioXiloj" target="_blank">
